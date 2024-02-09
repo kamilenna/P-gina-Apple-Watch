@@ -14,6 +14,14 @@
  Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Criação de objetos, arrays,troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo e alteração de atributos) e estrutura de condicionais.
 
 <h3><strong><a href="https://kamilenna.github.io/Pagina-Apple-Watch/" target="_blank">Link do projeto</a></strong></h3>
+<hr/>
+
+<h3>📌Outros projetos desenvolvidos no Intensivão JavaScript</h3>
+<ul>
+    <li><a href="https://github.com/kamilenna/Hashtag--Books" target="_blank">Projeto 1</a></li>
+    <li><a href="https://github.com/kamilenna/Cardapio-digital---hashtaurante" target="_blank">Projeto 3</a></li>
+    <li><a href="https://github.com/kamilenna/Hashtag-Chat" target="_blank">Projeto 4</a></li>
+</ul>
 
 <br>
 
