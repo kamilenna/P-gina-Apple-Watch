@@ -1,7 +1,4 @@
-# Pagina-Apple-Watch
- Segundo projeto do Intensivão de JavaScript do canal Hashtag Programação
-
- <h1 align="center"> 🕛 Projeto - Pagina-Apple-Watch 🍎</h1>
+<h1 align="center"> 🕛 Projeto - Pagina-Apple-Watch 🍎</h1>
 
 <h3 align="center"> 
 	Projeto concluído ✅
@@ -16,7 +13,7 @@
 <h2>👩‍🎓 O que aprendi</h2>
  Ao longo do projeto foi trabalhado funções, manipulação do DOM da página(Criação de objetos, arrays,troca de elementos, eventos com click, trabalhando com classes, alteração de conteúdo e alteração de atributos) e estrutura de condicionais.
 
-<h3><strong><a href="" target="_blank">Link do projeto</a></strong></h3>
+<h3><strong><a href="https://kamilenna.github.io/Pagina-Apple-Watch/" target="_blank">Link do projeto</a></strong></h3>
 
 <br>
 
